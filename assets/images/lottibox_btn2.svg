@@ -1,0 +1,65 @@
+<svg width="260" height="56" viewBox="0 0 260 56" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_824_52764)">
+<rect width="260" height="56" fill="url(#paint0_linear_824_52764)"/>
+<!-- White bg -->
+<rect x="5" y="5" width="250" height="46" rx="8" fill="#fffbfb" stroke="#C3CAD9"/>
+<g clip-path="url(#clip1_824_52764)">
+
+<!-- Added Text -->
+<text x="64.285" y="34" fill="#212121" font-family="sans-serif" font-weight="bold" font-size="18px">Browse Animations</text>
+</g>
+
+<g id="my-group"  >
+    <rect x="14" y="13" width="29.9717" height="29.9717" rx="14.9858" fill="url(#paint1_linear_824_52764)" />
+    <g>
+    <path d="M34.067 36.6267C34.7698 36.8404 35.5093 36.4384 35.7209 35.7285L35.7217 35.7253C36.4882 33.1368 34.5188 30.3024 29.8714 26.9147C26.2564 24.2809 24.5594 22.1391 24.8272 20.9162C24.9851 20.1952 24.5289 19.4795 23.812 19.3191C23.0951 19.1587 22.3842 19.6157 22.2263 20.3367C21.6636 22.9099 23.6968 25.718 28.3133 29.0838C31.8943 31.695 33.5164 33.7928 33.1708 34.9576C32.9623 35.6683 33.3643 36.413 34.067 36.6267Z" fill="white" fill-opacity="0.25" />
+    <path d="M35.5821 20.463C35.5693 19.7218 34.9647 19.133 34.2309 19.1459L34.2277 19.1461C31.5534 19.1981 29.4816 21.9571 27.7049 27.461C26.3241 31.7419 24.8223 34.0276 23.5877 34.1429C22.8597 34.2109 22.3241 34.868 22.3915 35.6066C22.4589 36.3451 23.1066 36.8896 23.8345 36.8217C26.4322 36.5782 28.4596 33.7659 30.2251 28.2984C31.595 24.0571 33.0782 21.8569 34.2818 21.8342C35.0154 21.818 35.5949 21.2042 35.5821 20.463Z" fill="white"/>
+     <!-- <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="1s" repeatCount="indefinite"/> -->
+
+     </g >
+     
+  </g>
+  
+</g>
+<defs>
+
+<!-- Added animation -->
+
+<linearGradient id="paint0_linear_824_52764" x1="11.6095" y1="3.17527" x2="81.2003" y2="143.014" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#FCCB71">
+    <animate attributeName="stop-color" values="#FCCB71; #FF707B; #DF64B1; #9860FB; #6171FE; #5499FF; #FCCB71" dur="4s" repeatCount="indefinite"></animate>
+  </stop>
+  <stop offset="0.29276" stop-color="#FF707B">
+    <animate attributeName="stop-color" values="#FF707B; #DF64B1; #9860FB; #6171FE; #5499FF; #FCCB71; #FF707B" dur="4s" repeatCount="indefinite"></animate>
+  </stop>
+  <stop offset="0.479634" stop-color="#DF64B1">
+    <animate attributeName="stop-color" values="#DF64B1; #9860FB; #6171FE; #5499FF; #FCCB71; #FF707B; #DF64B1" dur="4s" repeatCount="indefinite"></animate>
+  </stop>
+  <stop offset="0.675956" stop-color="#eb60fb">
+    <animate attributeName="stop-color" values="#9860FB; #6171FE; #5499FF; #FCCB71; #FF707B; #DF64B1; #9860FB" dur="4s" repeatCount="indefinite"></animate>
+  </stop>
+  <stop offset="0.828613" stop-color="#4e5ff8">
+    <animate attributeName="stop-color" values="#6171FE; #5499FF; #FCCB71; #FF707B; #DF64B1; #9860FB; #6171FE" dur="4s" repeatCount="indefinite"></animate>
+  </stop>
+  <stop offset="1" stop-color="#604efb">
+    <animate attributeName="stop-color" values="#5499FF; #FCCB71; #FF707B; #DF64B1; #9860FB; #6171FE; #5499FF" dur="4s" repeatCount="indefinite"></animate>
+  </stop>
+</linearGradient>
+
+
+<linearGradient id="paint1_linear_824_52764" x1="15.3383" y1="14.6994" x2="49.3767" y2="29.4314" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FCCB71"/>
+<stop offset="0.29276" stop-color="#FF707B"/>
+<stop offset="0.479634" stop-color="#DF64B1"/>
+<stop offset="0.675956" stop-color="#9860FB"/>
+<stop offset="0.828613" stop-color="#6171FE"/>
+<stop offset="1" stop-color="#5499FF"/>
+</linearGradient>
+<clipPath id="clip0_824_52764">
+<rect width="260" height="56" rx="9" fill="white"/>
+</clipPath>
+<clipPath id="clip1_824_52764">
+<rect width="183" height="22" fill="white" transform="translate(61 17)"/>
+</clipPath>
+</defs>
+</svg>
